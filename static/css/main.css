@@ -11,7 +11,7 @@ body {
 #orders-pending {
     background-color: #7CD1C0;
 }
-#header_logo {
-    width: 2rem;
-    height: 1rem;
+.header_logo {
+    width: 5%;
+    height: 2%;
 }
